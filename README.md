@@ -33,4 +33,4 @@ Easy to implement universal app theme written in swift
 
 ##Credits
 
-IMTheme is created by [Ian MacCallum](https://twitter.com/imac239) and inspired by [MAThemeKit](https://github.com/mamaral/MAThemeKit) written in Objective-C.
+IMTheme is created by [Ian MacCallum](https://twitter.com/imac239) and inspired by [MAThemeKit](https://github.com/mamaral/MAThemeKit) written in Objective-C. Use as you please under the MIT License.
