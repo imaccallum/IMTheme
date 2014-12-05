@@ -1,8 +1,6 @@
 IMTheme
 =======
-
 Easy to implement universal app theme written in swift
-=======
 
 ##How to use:<br/>
 1. Place IMTheme.swift into your project<br/>
@@ -30,7 +28,8 @@ Easy to implement universal app theme written in swift
 
 ##Examples
 
-![Refresher: preview default](https://raw.githubusercontent.com/jcavar/refresher/master/previews/anim_default.gif)
+![IMTheme: preview default](https://raw.githubusercontent.com/iMac239/IMTheme/master/Screenshots/IMTheme_1.png)
+![IMTheme: preview default](https://raw.githubusercontent.com/iMac239/IMTheme/master/Screenshots/IMTheme_2.png)
 
 ##Credits
 
