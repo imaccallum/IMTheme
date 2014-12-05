@@ -9,7 +9,6 @@ import UIKit
 
 class IMTheme {
     func setupTheme(#primary: UIColor, secondary: UIColor) {
-     
     
         // Comment out and customize colors here
         customizeLabel(color: primary)
